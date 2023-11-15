@@ -1,5 +1,5 @@
 token: "xxxxxxxxxxxxxxxx"    # Lidraughts OAuth2 Token.
-url: "https://lidraughts.org/"  # Lidraughts base URL.
+url: "https://playstrategy.org/"  # Lidraughts base URL.
 
 engine:                      # Engine settings.
   dir: "./engines/"          # Directory containing the engine. This can be an absolute path or one relative to lidraughts-bot/.
